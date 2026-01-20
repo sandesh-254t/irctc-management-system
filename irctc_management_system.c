@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include <conio.h>
+
 
 #define ADMIN_USER "admin"
 #define ADMIN_PASS "irctc123"
